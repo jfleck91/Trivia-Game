@@ -41,7 +41,7 @@ var questions = [{
   image:"assets/images/dukes.gif"
 }, {
   question: "What fictional company made the Family Truckster?",
-  answers: ["SportsWagon", "Mongomery", "Wagon Queen", "Vapid"],
+  answers: ["SportsWagon", "Montgomery", "Wagon Queen", "Vapid"],
   correctAnswer: "Wagon Queen",
   image:"assets/images/truckster.gif"
 }, {
