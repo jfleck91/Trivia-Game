@@ -1,0 +1,25 @@
+body {
+    background: url("../images/cars.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    background-color: beige;
+    padding: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+div{
+    text-align: center;
+    background-color: beige;
+    padding: 50px;
+    padding-bottom: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+}
