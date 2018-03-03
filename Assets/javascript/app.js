@@ -23,52 +23,52 @@ var questions = [{
   question: "How many hubcaps did the Charger lose in the bullit chase scene?",
   answers: ["Two", "Four", "Six", "Eight"],
   correctAnswer: "Eight",
-  image:"assets/images/bullitt.gif"
+  image:"Assets/images/bullitt.gif"
 }, {
   question: "what cars were 'in early this year' in The Blues Brothers?",
   answers: ["Chryslers","Oldsmobiles", "Datsuns", "Mercurys"],
   correctAnswer: "Oldsmobiles",
-  image:"assets/images/blues.gif"
+  image:"Assets/images/blues.gif"
 }, {
   question: "what type of truck did Snowman drive in Smokey and the Bandit?",
   answers: ["Kenworth", "Mack", "Peterbuilt", "Freightliner"],
   correctAnswer: "Kenworth",
-  image:"assets/images/smokey.gif"
+  image:"Assets/images/smokey.gif"
 }, {
   question: "How many Chargers were typicaly destroyed filming each Dukes of Hazzard episode?",
   answers: ["One", "Two", "Three", "Four"],
   correctAnswer: "Two",
-  image:"assets/images/dukes.gif"
+  image:"Assets/images/dukes.gif"
 }, {
   question: "What fictional company made the Family Truckster?",
   answers: ["SportsWagon", "Montgomery", "Wagon Queen", "Vapid"],
   correctAnswer: "Wagon Queen",
-  image:"assets/images/truckster.gif"
+  image:"Assets/images/truckster.gif"
 }, {
   question: "What is the first car seen in the Fast and the Furious franchise?",
   answers: ["RX7", "Supra", "Skyline", "Eclipse"],
   correctAnswer: "Eclipse",
-  image:"assets/images/eclipse.gif"
+  image:"Assets/images/eclipse.gif"
 }, {
   question: "What did the nitrous button in Eleanor say?",
   answers: ["Gone Baby Gone", "Go Baby Go", "Bye Bye Baby", "Go Go Go"],
   correctAnswer: "Go Baby Go",
-  image:"assets/images/gone.gif"
+  image:"Assets/images/gone.gif"
 }, {
   question: "What make of car was the first Batmobile based off of?",
   answers: ["Lincoln", "Pontiac", "Chrysler", "Buick"],
   correctAnswer: "Lincoln",
-  image:"assets/images/batmobile.gif"
+  image:"Assets/images/batmobile.gif"
 }, {
     question: "What was the mileage on the Ferrari when Cameron loses it in Ferris Buellers Day Off?",
     answers: ["194.4", "230.6", "301.7", "472.9"],
     correctAnswer: "301.7",
-    image:"assets/images/bueler.gif"
+    image:"Assets/images/bueler.gif"
   }, {
     question: "How much power did the delorean require to travel through time?",
     answers: ["1.21 milliwatts", "1.21 megawatts", "1.21 gigawatts", "1.21 Terawatts"],
     correctAnswer: "1.21 gigawatts",
-    image:"assets/images/delorean.gif"
+    image:"Assets/images/delorean.gif"
 }];
 
 // functions
